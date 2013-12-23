@@ -27,6 +27,7 @@ ENGR 145 Technology Entrepreneurship (http://e145.stanford.edu)
 
 ENGR 245 Lean Startups 
 
+
   Class designed to:
     -Prototype, test, and iterate participant's product
     -Understand if participant has a profitable business model
@@ -35,7 +36,9 @@ ENGR 245 Lean Startups
 
 FINANCE 373 Entrepreneurial Finance 
 
+
   Class about the financial decision-making process for start-up firms
+  
     -Discusses tools and concepts of corporate finance related to modeling, valuation, control, and investment decisions      within an entrepreneurial context. 
     -Case studies of firms at different stages of their life cycle
     -Discuss viewpoint of the entrepreneur and the viewpoint of the investor.  
