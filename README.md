@@ -36,13 +36,9 @@ ENGR 245 Lean Startups
 FINANCE 373 Entrepreneurial Finance 
 
   Class about the financial decision-making process for start-up firms
-  
     -Discusses tools and concepts of corporate finance related to modeling, valuation, control, and investment decisions      within an entrepreneurial context. 
-    
-    -Case studies of firms at different stages of their life cycles
-    
+    -Case studies of firms at different stages of their life cycle
     -Discuss viewpoint of the entrepreneur and the viewpoint of the investor.  
-    
     -Explore new developments in entrepreneurial finance
 
 GSBGEN 111Q Seminar in Entrepreneurial Communication
